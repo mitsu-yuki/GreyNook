@@ -28,5 +28,8 @@
 		"typescript-eslint": "^8.0.0",
 		"unocss": "^0.65.1",
 		"vite": "^6.0.0"
+	},
+	"dependencies": {
+		"@atproto/api": "^0.13.20"
 	}
 }
